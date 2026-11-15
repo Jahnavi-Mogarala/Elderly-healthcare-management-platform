@@ -1,4 +1,4 @@
-Elderly-healthcare-management-platform
+**Elderly-healthcare-management-platform**
 
 # CareCircle
 
@@ -8,7 +8,7 @@ CareCircle is a shared healthcare hub for elderly people, their caretakers and t
 
 The elder stays at the centre: family and caretakers can *suggest* medicine changes, but nothing changes until the elder approves.
 
-> **Status:** working front-end prototype (single file, no build step). Reminder emails are **simulated** in an in-app Inbox. See [Roadmap](#roadmap) for the backend needed to send real email and sync across devices.
+> **Status:** working front-end prototype (single file, no build step). Reminder emails are **simulated** in an in-app Inbox. 
 
 ---
 
@@ -135,4 +135,4 @@ carecircle.html
 
 ## License
 
-MIT (choose the license that suits your project).
+MIT
